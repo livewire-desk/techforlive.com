@@ -3,7 +3,7 @@ title: How to spot a fake video call scam before you join it
 seo_title: Spot a fake video call scam: the FBI's FaceStealer checks
 description: Fake video calls stole $400 million in crypto, the FBI says. Here is how the FaceStealer scam works and the checks that keep you out of it.
 date: 2026-11-15T13:27:00
-updated: 2026-11-15T13:27:00
+updated: 2026-11-16T11:01:00
 category: privacy-security
 desk: security
 image: https://tse2.mm.bing.net/th?q=how+to+spot+a+fake+video+call+scam&w=820&h=462&c=7&rs=1&p=0&o=5&pid=1.7
@@ -19,6 +19,7 @@ cf_id: 14711
 <p>The $400 million figure belongs to FaceStealer alone. No victim count has been published, so no victim number appears in this guide.</p>
 <table><thead><tr><th>At a glance</th><th>Answer</th></tr></thead><tbody><tr><td>The scam</td><td>FaceStealer, fake video meetings run by North Korean hackers</td></tr><tr><td>What the FBI says it took</td><td>More than $400 million in cryptocurrency over 18 months</td></tr><tr><td>The alert</td><td>FBI FLASH notice, 12 November 2026</td></tr><tr><td>The trick</td><td>Recorded video of real people, plus a fake audio glitch</td></tr><tr><td>The trap</td><td>A fix that installs malware when you run it</td></tr><tr><td>Where to report it</td><td>IC3.gov, with the keyword FaceStealer</td></tr></tbody></table>
 <h2>How the FaceStealer scam works, step by step</h2>
+<figure class="fig"><img src="/media/woman-waving-at-her-laptop-during-a-video-call-4cd9c3b26a-800.webp" alt="Woman waving at her laptop during a video call" loading="lazy" decoding="async"><figcaption>Photo: Shixart1985, CC BY 2.0</figcaption></figure>
 <p>It starts with a message from an account you already know. According to the FBI, hackers took over accounts on Telegram, LinkedIn, Slack and Discord, then used them to invite victims to a video meeting. A hijacked account is one the attacker has taken over.</p>
 <p>That link does not lead to the real Zoom, Teams or Meet. It leads to a copy that looks the same. A copy asks you to wait for the meeting to start. While you wait, it records your webcam without telling you.</p>
 <p>When the meeting starts, you see faces you know. They are not live. They are recordings of earlier victims, played back to make you trust the call. AI-made deepfake videos of well-known crypto figures appear in some calls too, the FBI says. A deepfake is a fake video made by software.</p>
