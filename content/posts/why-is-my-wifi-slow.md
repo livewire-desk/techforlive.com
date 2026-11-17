@@ -3,7 +3,7 @@ title: Why is my Wi-Fi slow? Find the cause in ten minutes
 seo_title: Why is my Wi-Fi slow? Causes and fixes that work
 description: Slow Wi-Fi is usually distance, interference or the wrong band. Test wired against wireless, move the router, and fix the real cause in minutes.
 date: 2026-11-16T14:04:00
-updated: 2026-11-16T14:04:00
+updated: 2026-11-17T10:58:00
 category: internet-apps
 desk: apps
 image: https://tse3.mm.bing.net/th?q=why+is+my+wifi+slow&w=820&h=462&c=7&rs=1&p=0&o=5&pid=1.7
@@ -32,6 +32,7 @@ cf_id: 15018
 <div class="note"><b>Tip:</b> If your router has one network name for both bands, split them in settings so you can pick 5 GHz by hand.</div>
 [[amazon:mesh Wi-Fi system 3 pack|Mesh Wi-Fi set|Covers dead zones a single router cannot reach, without running cables.]]
 <h2>Dodge interference and crowded channels</h2>
+<figure class="fig"><img src="https://tse3.mm.bing.net/th?q=microwave+oven+next+to+a+Wi-Fi+router+in+a+kitchen&amp;w=560&amp;h=380&amp;c=7&amp;rs=1&amp;p=0&amp;o=5&amp;pid=1.7" alt="microwave oven next to a Wi-Fi router in a kitchen" loading="lazy" decoding="async"></figure>
 <p>Your Wi-Fi shares the air with everything else that uses radio. Microwaves, baby monitors, cordless phones and Bluetooth gadgets all crowd the 2.4 GHz band. A running microwave can stall a video call in the next room. Neighbouring networks add to the pile, especially in flats, where dozens of routers may sit metres from yours. Each one fights for the same channels, and your speed drops as the noise rises.</p>
 <p>Channels are the fix on 2.4 GHz. The band has only three channels that do not overlap: 1, 6 and 11. A Wi-Fi analyser app shows which channels nearby networks use, and your router settings let you pick one. Choose the least busy of the three and test again. On 5 GHz there are many more channels, so congestion is rarer, but the check still helps in a crowded block. Leave the channel on Auto if the choice looks even, because most modern routers pick well on their own.</p>
 <p>Move the router away from the worst offenders. Keep it clear of the microwave, the TV and large metal, and never tuck it behind a fish tank: water absorbs Wi-Fi signals. Metal shelves and mirrors bounce the signal in odd directions. A metre of clear air around the router costs nothing and often helps more than a settings change. Test before and after each move so you know what helped.</p>
