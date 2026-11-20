@@ -3,7 +3,7 @@ title: USB flash drive or portable SSD: which one for which job
 seo_title: USB flash drive or portable SSD: which one for which job
 description: Match the drive to the job. Real-world speed, failure modes, price per GB and the crossover point that decides between a USB flash drive and a portable SSD.
 date: 2026-11-19T20:13:00
-updated: 2026-11-19T20:13:00
+updated: 2026-11-20T10:59:00
 category: pc-storage
 desk: pc
 image: https://tse2.mm.bing.net/th?q=external+ssd+vs+usb+flash+drive&w=820&h=462&c=7&rs=1&p=0&o=5&pid=1.7
@@ -32,6 +32,7 @@ cf_id: 11893
 <p>The mistake is comparing sticker prices. A cheap flash drive that loses a project costs far more than the difference in price up front. Think about what the drive carries, not what it costs.</p>
 <table><caption>Rough cost comparison by capacity tier</caption><thead><tr><th>Capacity</th><th>Flash drive</th><th>Portable SSD</th><th>Better buy</th></tr></thead><tbody><tr><td>8-32 GB</td><td>Very cheap</td><td>Not made</td><td>Flash drive</td></tr><tr><td>64-128 GB</td><td>Cheap</td><td>Cheaper than before but still more</td><td>Flash drive</td></tr><tr><td>256 GB</td><td>Cheap</td><td>Mid-priced</td><td>Depends on speed need</td></tr><tr><td>512 GB</td><td>Mid-priced</td><td>Similar or less</td><td>Portable SSD</td></tr><tr><td>1 TB+</td><td>Rare, slow</td><td>Good value</td><td>Portable SSD</td></tr></tbody></table>
 <h2>Which tasks justify an SSD: video editing, frequent backups, booting or running apps</h2>
+<figure class="fig"><img src="https://tse1.mm.bing.net/th?q=Portable+SSD+connected+to+laptop+running+video+editing+timeline&amp;w=560&amp;h=380&amp;c=7&amp;rs=1&amp;p=0&amp;o=5&amp;pid=1.7" alt="Portable SSD connected to laptop running video editing timeline" loading="lazy" decoding="async"></figure>
 <p>Three jobs make a portable SSD the only sensible answer. First, video editing. Editors stream footage while you scrub the timeline, and flash drives can&#x27;t feed that stream. Consumer 4K footage is fine on a portable SSD but stalls a flash drive. For 8K or high-bitrate codecs, check the camera&#x27;s bitrate against the drive&#x27;s sustained write rating, not its burst rating. Second, automated backups that run daily or hourly. Heavy rewriting is exactly what wears flash drives out. Third, running a portable app or even a full operating system from the drive. Random reads dominate here, and flash drives stall on them.</p>
 <p>The pattern is the same in all three cases: many reads and writes in a short time, or repeated writes over months. Portable SSDs are built for exactly that load. Flash drives are built to carry a file from one machine to another, not to work from.</p>
 <p>If your job is none of these, you probably don&#x27;t need one. Fast flash drives handle photo transfer, PDFs, printing, sharing a folder of documents and handing work to a colleague.</p>
