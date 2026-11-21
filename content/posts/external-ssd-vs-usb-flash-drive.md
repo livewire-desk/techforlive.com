@@ -3,7 +3,7 @@ title: USB flash drive or portable SSD: which one for which job
 seo_title: USB flash drive or portable SSD: which one for which job
 description: Match the drive to the job. Real-world speed, failure modes, price per GB and the crossover point that decides between a USB flash drive and a portable SSD.
 date: 2026-11-19T20:13:00
-updated: 2026-11-20T10:59:00
+updated: 2026-11-21T10:58:00
 category: pc-storage
 desk: pc
 image: https://tse2.mm.bing.net/th?q=external+ssd+vs+usb+flash+drive&w=820&h=462&c=7&rs=1&p=0&o=5&pid=1.7
@@ -21,6 +21,7 @@ cf_id: 11893
 <table><thead><tr><th>At a glance</th><th>Answer</th></tr></thead><tbody><tr><td>Typical flash write</td><td>10-30 MB/s sustained</td></tr><tr><td>Typical SSD write</td><td>450-950 MB/s over USB 3.2 Gen 2</td></tr><tr><td>Price crossover</td><td>Hundreds of GB, check current prices</td></tr><tr><td>Flash drive lifespan</td><td>Low endurance, fails quietly</td></tr><tr><td>SSD lifespan</td><td>5-10 years, write-limited</td></tr><tr><td>Files to hand over</td><td>Flash drive, always</td></tr><tr><td>Editing source footage</td><td>SSD only</td></tr></tbody></table>
 [[tool:storage-size-converter]]
 <h2>Lifespan and failure modes: why flash drives die quietly</h2>
+<figure class="fig"><img src="https://tse3.mm.bing.net/th?q=Old+USB+flash+drive+lying+in+laptop+bag+with+worn+connector&amp;w=560&amp;h=380&amp;c=7&amp;rs=1&amp;p=0&amp;o=5&amp;pid=1.7" alt="Old USB flash drive lying in laptop bag with worn connector" loading="lazy" decoding="async"></figure>
 <p>Both drives store data in flash memory cells that wear out after a set number of writes. SSDs spread writes across all cells using a technique called wear levelling, and they track the wear. The controller reports an estimate you can read with manufacturer software. Cheap flash-drive controllers do little to spread writes around. Rewrite the same file every week and the cells under it take every hit.</p>
 <p>The failure is not dramatic. SSDs usually show warning signs: slow writes, files disappearing, SMART warnings in the manufacturer&#x27;s tool. Flash drives often work perfectly until the day they don&#x27;t, and then the files are gone. That&#x27;s the quiet death people talk about, and it happens most often on drives that live in a laptop bag and get rewritten constantly.</p>
 <p>There&#x27;s a second difference for backups. Flash memory loses charge over time when unpowered. Drives left in a drawer for years can come back with corrupted or unreadable files.</p>
@@ -44,6 +45,7 @@ cf_id: 11893
 <p>The other good flash-drive job is carrying a working set of files, not an archive. Take the files you need for the day, once, and leave them. That&#x27;s light use. It will last years.</p>
 <p>File system compatibility matters here. Flash drives often ship formatted as FAT32, which works everywhere but caps individual files at 4 GB. Portable SSDs usually ship as exFAT or NTFS. exFAT handles larger files and works on Windows, recent Macs, and many TVs, but older devices may not read it. Format for the oldest device you&#x27;ll plug into.</p>
 <h2>What to check on the label: USB 3.x, drive speed ratings, and encrypted models</h2>
+<figure class="fig"><img src="https://tse2.mm.bing.net/th?q=Close-up+of+USB+drive+packaging+showing+USB+3.2+and+speed+markings&amp;w=560&amp;h=380&amp;c=7&amp;rs=1&amp;p=0&amp;o=5&amp;pid=1.7" alt="Close-up of USB drive packaging showing USB 3.2 and speed markings" loading="lazy" decoding="async"></figure>
 <p>Ignore the words on the front of the package and look for two things. First the USB version: <strong>USB 3.2 Gen 1</strong> runs at 5 Gbit/s. <strong>USB 3.2 Gen 2</strong> runs at 10 Gbit/s. <strong>USB 3.2 Gen 2x2</strong> runs at 20 Gbit/s, and <strong>Thunderbolt 3 or 4</strong> runs at 40 Gbit/s. The port spec sets the ceiling, but the drive controller decides the real speed. A good Gen 2 SSD might deliver 900-1,000 MB/s, but that depends on the drive, not the port alone. The older names SuperSpeed and USB 3.0/3.1 have been folded into this numbering, so a package can say USB 3.1 and still be Gen 1.</p>
 <p>Second, the maker&#x27;s own speed rating. Reputable SSD makers publish sequential read and write figures and often a TBW number, which is total terabytes you may write before the drive is out of warranty. Flash drives almost never publish these, and that silence is the honest answer.</p>
 <p>Your operating system decides whether the SSD runs at full speed. Windows and macOS support UASP over USB, which cuts overhead, and it is on by default in recent versions. Older systems may need a driver update. Check the drive manufacturer&#x27;s support page if speeds seem low.</p>

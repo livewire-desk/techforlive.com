@@ -3,7 +3,7 @@ title: Google Gemini Tasks is free now: what it does and how to use it
 seo_title: Google Gemini Tasks is free now: what it does and how to use it
 description: Google renamed its Spark AI agent to Tasks and made it free in six countries. Here is what it can do, who gets it, and how to switch it on.
 date: 2026-11-19T13:21:00
-updated: 2026-11-19T13:21:00
+updated: 2026-11-21T10:58:00
 category: internet-apps
 desk: apps
 image: https://tse1.mm.bing.net/th?q=what+is+google+gemini+tasks&w=820&h=462&c=7&rs=1&p=0&o=5&pid=1.7
@@ -37,6 +37,7 @@ cf_id: 15792
 <p>Paid plans lift those caps, with more room for repeating jobs and heavier use. Whether that is worth paying for depends on how many repeating jobs you run. Most readers will not need it. Try the free tier for a week first, and count how often you hit a limit before you decide.</p>
 <div class="note warn"><b>Warning:</b> Free Tasks pauses when its budget runs out. A job with a deadline should start early, not at the last hour.</div>
 <h2>What to check before Tasks touches your inbox</h2>
+<figure class="fig"><img src="https://tse1.mm.bing.net/th?q=phone+lock+screen+with+permission+prompt&amp;w=560&amp;h=380&amp;c=7&amp;rs=1&amp;p=0&amp;o=5&amp;pid=1.7" alt="phone lock screen with permission prompt" loading="lazy" decoding="async"></figure>
 <p>An agent is only useful if it can reach your stuff. Tasks needs your calendar to book things, your inbox to sort mail, and your files to find numbers. That access is the whole point, and it is also the risk. Read the permission screen before you tap yes. It lists each account and each kind of data the agent can touch.</p>
 <p>Keep the agent on a short leash at first. Give it one account, not all of them, and one kind of job. Look over what it did after each job, before you give it the next one. If it booked something wrong, cancel it straight away and tell the agent what went wrong. Starting small is not caution for its own sake. It is how you learn what the agent does with access.</p>
 <p>Money jobs need one more check. Set a rule for yourself before you let the agent near a payment. Decide what it may spend, and what it must ask about first. A price cap in your head is not a cap in the app. Until you know where the line sits, keep purchases as a job you approve each time.</p>
