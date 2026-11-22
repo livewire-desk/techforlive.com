@@ -3,7 +3,7 @@ title: Signal blocked your screenshots: how to take them again
 seo_title: Signal blocked screenshots: how to capture again
 description: Signal blocks screenshots to stop Siri AI and Gemini scanning chats. Learn how to take screenshots in Signal again and what the setting cannot stop.
 date: 2026-11-21T16:22:00
-updated: 2026-11-21T16:22:00
+updated: 2026-11-22T10:59:00
 category: privacy-security
 desk: security
 image: /media/hand-touching-an-iphone-lock-screen-on-a-white-tab-7acde207df-1200.webp
@@ -29,6 +29,7 @@ cf_id: 16301
 <ol class="steps"><li>Open Signal and tap your profile picture to reach Settings.</li><li>Go to Privacy and find Block Siri AI.</li><li>Turn Block Siri AI off.</li><li>Take your screenshot, then return to Privacy and turn Block Siri AI back on.</li></ol>
 <div class="note"><b>Check this:</b> Try a screenshot first. The failure message tells you the block is active.</div>
 <h2>Android works differently: Screen security switches itself on</h2>
+<figure class="fig"><img src="/media/hand-holding-an-android-phone-showing-the-settings-1767ad9370-800.webp" alt="Hand holding an Android phone showing the Settings menu" loading="lazy" decoding="async"><figcaption>Photo: Watford Media via Pexels, Pexels</figcaption></figure>
 <p>Android uses Signal&#x27;s older <strong>Screen security</strong> setting, and Signal Support describes the path through your profile and Privacy on the phone. Some versions label the area differently. Follow the labels your screen shows.</p>
 <p>The Android block is reactive, not always on, because Signal switches Screen security on when it detects an assistant reading the screen. A message explains what happened. Detection works only where Signal can spot the attempt.</p>
 <p>You can switch Screen security on early instead. Early setup hides Signal from the recent-apps list as well. A blue privacy screen covers your chats in the app switcher. Screenshots inside Signal stop working while it stays on.</p>
