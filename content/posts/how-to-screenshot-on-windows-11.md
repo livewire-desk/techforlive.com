@@ -3,7 +3,7 @@ title: How to screenshot on Windows 11 with every built-in method
 seo_title: How to screenshot on Windows 11: Snipping Tool and keys
 description: Learn how to screenshot on Windows 11 with Snipping Tool, Print Screen and Game Bar, plus where each method saves the file or copies it to paste.
 date: 2026-11-23T13:42:00
-updated: 2026-11-23T13:42:00
+updated: 2026-11-24T11:00:00
 category: pc-storage
 desk: pc
 image: /media/windows-laptop-tablet-with-keyboard-on-a-white-des-9fb4ec7af4-1200.webp
