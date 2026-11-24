@@ -3,7 +3,7 @@ title: How to clean a laptop screen without streaks or damage
 seo_title: How to clean a laptop screen safely, step by step
 description: Learn how to clean a laptop screen with a dry microfiber cloth and distilled water, plus what cleaners makers ban and how to handle touchscreens.
 date: 2026-11-23T15:53:00
-updated: 2026-11-23T15:53:00
+updated: 2026-11-24T10:59:00
 category: pc-storage
 desk: pc
 image: https://tse2.mm.bing.net/th?q=how+to+clean+a+laptop+screen&w=820&h=462&c=7&rs=1&p=0&o=5&pid=1.7
@@ -37,6 +37,7 @@ cf_id: 16808
 <table><caption>Cleaning choices by screen type</caption><thead><tr><th>Screen type</th><th>Start with</th><th>Watch out for</th></tr></thead><tbody><tr><td>Touchscreen</td><td>Dry lint-free cloth</td><td>Rubbing hard on fingerprints</td></tr><tr><td>Matte anti-glare</td><td>Dry cloth, then water</td><td>Soap or alcohol on coating</td></tr><tr><td>Glossy glass</td><td>Dry microfiber cloth</td><td>Spraying liquid on glass</td></tr><tr><td>Nano-texture glass</td><td>Polishing cloth for displays</td><td>Shared cloths carrying grit</td></tr></tbody></table>
 [[amazon:microfiber screen cleaning cloth|Microfiber screen cloth|Suits anyone cleaning a laptop screen weekly; a dedicated lint-free cloth lifts dust without scratching coatings.]]
 <h2>Stubborn fingerprints, grease and sticky marks</h2>
+<figure class="fig"><img src="https://tse1.mm.bing.net/th?q=wiping+fingerprints+off+laptop+screen&amp;w=560&amp;h=380&amp;c=7&amp;rs=1&amp;p=0&amp;o=5&amp;pid=1.7" alt="wiping fingerprints off laptop screen" loading="lazy" decoding="async"></figure>
 <p>Grease needs a little more than water. Skin oil builds up where fingers touch the screen, layer on layer, until light smears across every dark image you open. Try the damp cloth again before you reach for anything stronger. Fresh cloth corners help. A dirty cloth spreads oil in thin streaks instead of lifting it.</p>
 <p>Alcohol rules differ by maker, so check yours first. Apple allows a cloth moistened with a <strong>70-percent isopropyl alcohol</strong> solution for hard-to-remove smudges on a Mac display. Isopropyl alcohol is rubbing alcohol. Microsoft allows an isopropyl alcohol solution at 70% or less on Surface screens. Lenovo describes a 50-50 mix of isopropyl alcohol and water without impurities for stains that remain.</p>
 <p>Other makers stay stricter, so your model manual wins. HP user guides list strong solvents, including alcohol, as products that can damage the surface. Dell publishes cleaning guidance for its products, and some Dell display notices warn against alcohol on anti-glare coatings. When guidance conflicts, choose water.</p>
