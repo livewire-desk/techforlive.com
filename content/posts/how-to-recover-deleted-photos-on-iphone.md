@@ -3,7 +3,7 @@ title: How to Recover Deleted Photos on iPhone in Minutes
 seo_title: Recover Deleted Photos on iPhone: 30-Day Fix That Works
 description: Deleted a photo on your iPhone? It sits in Recently Deleted for 30 days. Follow the exact steps to bring it back, plus what to do when it is gone.
 date: 2026-11-24T15:18:00
-updated: 2026-11-24T15:18:00
+updated: 2026-11-25T10:58:00
 category: phones-batteries
 desk: phones
 image: https://tse2.mm.bing.net/th?q=how+to+recover+deleted+photos+on+iphone&w=820&h=462&c=7&rs=1&p=0&o=5&pid=1.7
@@ -44,6 +44,7 @@ cf_id: 17081
 <p>Shaking the phone or restarting it brings no photos back. It does not. A restart clears temporary glitches, not deletions, so if a photo is missing after a restart, check Recently Deleted next. Recently Deleted, not the restart, decides the result. The same goes for updating iOS. An update will not dig up a photo deleted months ago.</p>
 <p>Removing a photo from an album saves nothing elsewhere, since albums are views of your library, not separate copies. Deleting a photo from any album deletes it from the whole library, and it lands in Recently Deleted either way. Albums never protect a photo from deletion. In a shared library, only the person who added a photo can recover it.</p>
 <h2>A backup habit that saves the next deleted photo</h2>
+<figure class="fig"><img src="https://tse4.mm.bing.net/th?q=iPhone+Settings+iCloud+Photos+toggle+turned+on&amp;w=560&amp;h=380&amp;c=7&amp;rs=1&amp;p=0&amp;o=5&amp;pid=1.7" alt="iPhone Settings iCloud Photos toggle turned on" loading="lazy" decoding="async"></figure>
 <p>Think of recovery as a rescue, not a plan. A photo you save today is one you never have to chase. Turn on iCloud Photos so every shot syncs to Apple servers as you take it. Go to Settings, tap your name, tap iCloud, then tap Photos, and switch on Sync this iPhone. Your photos then live on your phone and in iCloud at once.</p>
 <p>Make sure iCloud Backup runs too. Go to Settings, tap your name, tap iCloud, then tap iCloud Backup, and switch on Back Up This iPhone. It backs up each night on Wi-Fi while it charges. A fresh backup means a deleted photo is never more than a restore away. It also covers messages, settings, and apps.</p>
 <p>Keep a second copy outside Apple too. Once a month, plug the phone into your computer and copy new photos to a folder, or use a USB-C flash drive made for iPhones. Keep the drive somewhere safe, away from the phone. Two copies in two places beat one copy in one cloud. That habit costs a few minutes a month. Worth it.</p>

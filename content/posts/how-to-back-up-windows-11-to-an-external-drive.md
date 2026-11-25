@@ -3,7 +3,7 @@ title: Three ways to back up Windows 11 to an external drive
 seo_title: Back up Windows 11 to an external drive: three built-in ways
 description: Learn how to back up Windows 11 to an external drive with File History, Backup and Restore, or File Explorer, and what each one copies.
 date: 2026-11-24T20:40:00
-updated: 2026-11-24T20:40:00
+updated: 2026-11-25T10:58:00
 category: pc-storage
 desk: pc
 image: https://tse3.mm.bing.net/th?q=how+to+back+up+windows+11+to+an+external+drive&w=820&h=462&c=7&rs=1&p=0&o=5&pid=1.7
@@ -27,6 +27,7 @@ cf_id: 11878
 <p>A clean install on an SSD is usually the short part; reinstalling apps and drivers is the real time sink. If you need a restoreable image, third-party tools exist. AOMEI Backupper Standard and Hasleo Backup Suite Free are current options. Check their own documentation for Windows 11 support.</p>
 <div class="note warn"><b>Common mistake:</b> A system image from a deprecated tool is a fallback, not a plan. If you rely on one, test that it restores before you need it.</div>
 <h2>OneDrive Files On-Demand placeholders look like files but are not on the drive</h2>
+<figure class="fig"><img src="https://tse3.mm.bing.net/th?q=File+Explorer+window+showing+OneDrive+cloud+status+icons&amp;w=560&amp;h=380&amp;c=7&amp;rs=1&amp;p=0&amp;o=5&amp;pid=1.7" alt="File Explorer window showing OneDrive cloud status icons" loading="lazy" decoding="async"></figure>
 <p>OneDrive Files On-Demand shows your cloud files in File Explorer with a cloud icon. They look present. They are not on your disk. If you copy that folder to an external drive, some files may come across as tiny placeholder stubs, or fail to copy at all.</p>
 <p>The fix is to right-click the OneDrive folder in File Explorer, choose &quot;Always keep on this device&quot;, and wait for the download to finish. The icon changes to the solid green circle that means always kept on this device. Wait for it before copying. Then read the folder&#x27;s size in Properties on both sides, and only start the backup when the sizes match.</p>
 <p>Check the size before and after. A folder showing 2 GB in OneDrive but 40 MB on the external drive means most of it is still in the cloud. That size gap is the giveaway that a backup only looks complete.</p>
@@ -48,6 +49,7 @@ cf_id: 11878
 <ol class="steps"><li>Plug the drive in. Confirm it shows under This PC.</li><li>Right-click the drive, open Properties, and read the File system line.</li><li>Pick your route: File History, or a manual drag-and-drop copy.</li><li>For File History, use Settings, then System, then Storage, then Backup options, and choose the drive.</li><li>Wait until the progress window closes, then compare file counts and open a few files.</li></ol>
 <div class="note"><b>Check this:</b> Keep the drive plugged in until the copy finishes and you&#x27;ve verified the file count. Don&#x27;t unplug until the progress window closes and you have compared file counts.</div>
 <h2>How much space to leave free on the backup drive</h2>
+<figure class="fig"><img src="https://tse3.mm.bing.net/th?q=External+drive+Properties+window+showing+capacity+and+free+space&amp;w=560&amp;h=380&amp;c=7&amp;rs=1&amp;p=0&amp;o=5&amp;pid=1.7" alt="External drive Properties window showing capacity and free space" loading="lazy" decoding="async"></figure>
 <p>Don&#x27;t fill the backup drive to the top. File History writes new versions each run, and a full drive stalls the next backup without warning. File History stores multiple versions, so leave room for at least a full second copy of your data.</p>
 <p>A 1 TB external drive backing up 400 GB of files has room to grow. A 500 GB drive backing up 480 GB will fail the next time a large file changes. Windows won&#x27;t stop you from filling it, but the backup will quietly stop working.</p>
 <p>Don&#x27;t use the backup drive for other storage. A drive that holds both your backup and your movie collection is not a backup. It&#x27;s just another place your files live, and you lose it all in one event.</p>
