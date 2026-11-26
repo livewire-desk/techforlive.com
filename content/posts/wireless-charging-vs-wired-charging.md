@@ -3,7 +3,7 @@ title: Wireless charging vs wired charging: what reaches the battery
 seo_title: Wireless Charging vs Wired Charging: What Reaches the Battery
 description: Wireless charging vs wired charging explained: see why rated watts differ from delivered power, how heat affects batteries, and how to test your setup.
 date: 2026-11-26T00:13:00
-updated: 2026-11-26T00:13:00
+updated: 2026-11-26T11:03:00
 category: phones-batteries
 desk: phones
 image: https://tse4.mm.bing.net/th?q=wireless+charging+vs+wired+charging&w=820&h=462&c=7&rs=1&p=0&o=5&pid=1.7
@@ -31,6 +31,7 @@ cf_id: 11172
 <p>Fast charging also changes over time. Phones often accept more power at a low battery level, then reduce it as the battery fills. That protects the battery and controls heat.</p>
 <table><caption>Why a charger’s rating may exceed the phone’s actual input</caption><thead><tr><th>Part</th><th>Possible limit</th><th>What you should check</th></tr></thead><tbody><tr><td>Wall adapter</td><td>Supported USB PD profiles</td><td>The voltage and current listed on its label</td></tr><tr><td>USB-C cable</td><td>Current rating or poor construction</td><td>Cable specification and condition</td></tr><tr><td>Phone</td><td>Its charging protocol and thermal limit</td><td>The manufacturer’s charging specification</td></tr><tr><td>Battery state</td><td>Lower power near a high charge level</td><td>Battery percentage during testing</td></tr></tbody></table>
 <h2>Wireless charging loses power through coils and heat</h2>
+<figure class="fig"><img src="https://tse4.mm.bing.net/th?q=Phone+charging+on+a+wireless+pad+with+a+temperature+reading+nearby&amp;w=560&amp;h=380&amp;c=7&amp;rs=1&amp;p=0&amp;o=5&amp;pid=1.7" alt="Phone charging on a wireless pad with a temperature reading nearby" loading="lazy" decoding="async"></figure>
 <p>Wireless charging sends energy across a short gap. The pad’s coil creates a magnetic field, and the phone’s coil turns that field back into electrical power.</p>
 <p>Both conversions use energy. Poor alignment, extra distance and foreign materials can increase losses. The pad and phone can then become warmer while the battery charges more slowly.</p>
 <p>Phones commonly reduce wireless power when the charging area warms. The exact limit varies by model, software, pad and temperature.</p>
@@ -48,6 +49,7 @@ cf_id: 11172
 <p>An iPhone X, for example, supports Qi wireless charging but not newer magnetic alignment features built into later accessories. A Samsung Galaxy S-series phone may support faster wireless modes only with a compatible Samsung pad and the right conditions. Check the exact model specification before comparing chargers.</p>
 <ul><li>Centre the phone on a flat pad before judging its speed.</li><li>Remove cards, metal plates and unsuitable magnetic accessories.</li><li>Test with and without the case if charging seems slow.</li><li>Check whether the phone and pad support the same charging standard.</li><li>Use a Qi2 or MagSafe-compatible setup when stable alignment matters.</li></ul>
 <h2>You can test your own charger without guessing</h2>
+<figure class="fig"><img src="https://tse3.mm.bing.net/th?q=USB-C+power+meter+connected+between+a+charger+and+smartphone&amp;w=560&amp;h=380&amp;c=7&amp;rs=1&amp;p=0&amp;o=5&amp;pid=1.7" alt="USB-C power meter connected between a charger and smartphone" loading="lazy" decoding="async"></figure>
 <p>Run an A/B test with the same phone, battery percentage and room temperature. Use the same time period, such as 20 minutes, and stop other demanding apps.</p>
 <p>For wired charging, use a USB-C power meter between the adapter and cable if the connector supports it. The meter shows input to the phone, not necessarily power stored at the battery.</p>
 <p>Some Android phones show charging current or power in diagnostic apps, but those readings are estimates and can be filtered by software. iPhones usually give battery percentage rather than a live wattage figure.</p>
