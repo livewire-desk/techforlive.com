@@ -3,7 +3,7 @@ title: Airplane Mode Explained: What It Turns Off and When to Use It
 seo_title: Airplane Mode Explained: What It Turns Off and When to Use It
 description: Airplane mode switches off your phone's cellular signal, and Wi-Fi and Bluetooth at first. Learn what still works and when to use it on iPhone and Android.
 date: 2026-11-25T14:39:00
-updated: 2026-11-25T14:39:00
+updated: 2026-11-26T11:03:00
 category: phones-batteries
 desk: phones
 image: https://tse4.mm.bing.net/th?q=what+is+airplane+mode+and+when+to+use+it&w=820&h=462&c=7&rs=1&p=0&o=5&pid=1.7
@@ -32,6 +32,7 @@ cf_id: 17284
 <p>Maps are a mixed case. A map you downloaded still opens and shows the streets you saved, but live traffic and searching for new places need a connection. GPS still works as well, since it only listens for satellite signals and sends nothing back. The same rule covers most apps: what you saved works, and what needs the internet waits. Photos, files and anything stored on the phone are all still there.</p>
 <div class="note"><b>Tip:</b> Download films, music and maps before you fly. Airplane mode never blocks what is already on your phone.</div>
 <h2>How to turn airplane mode on and off</h2>
+<figure class="fig"><img src="https://tse3.mm.bing.net/th?q=finger+tapping+the+airplane+mode+tile+on+a+phone+screen&amp;w=560&amp;h=380&amp;c=7&amp;rs=1&amp;p=0&amp;o=5&amp;pid=1.7" alt="finger tapping the airplane mode tile on a phone screen" loading="lazy" decoding="async"></figure>
 <p>Most phones keep the switch one swipe away. On iPhone, open Control Center and tap the airplane button, or open Settings and use the Airplane Mode switch at the top. On a Pixel, swipe down twice to open Quick Settings and tap the airplane tile, or go to <code>Settings &gt; Network &amp; internet &gt; Airplane mode</code>. Other Android phones keep it in a similar place, usually under <code>Settings &gt; Network &amp; internet</code> or <code>Settings &gt; Connections</code>. A small airplane icon appears in the status bar, so you can see at a glance that it is on.</p>
 <p>Turning it off is the same move in reverse. Tap the airplane button again, and your phone rejoins the mobile network and any Wi-Fi it remembers. Calls and texts that arrived while you were offline come through once the phone reconnects. Give it a few seconds, since the phone has to find the network again.</p>
 <p>If your phone will not reconnect, toggle airplane mode on and off once. It forces the phone to search for a signal from scratch. The trick takes a moment, and it works on iPhone and Android alike. No setting changes, and nothing needs a restart.</p>
