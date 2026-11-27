@@ -3,7 +3,7 @@ title: eSIM vs physical SIM: same network, different swapping process
 seo_title: eSIM vs Physical SIM: Network Same, Swapping Differs
 description: An eSIM and a physical SIM use the same network and radio, so neither is faster. The real difference is how you move your number and protect it.
 date: 2026-11-26T13:32:00
-updated: 2026-11-26T13:32:00
+updated: 2026-11-27T11:01:00
 category: phones-batteries
 desk: phones
 image: https://tse1.mm.bing.net/th?q=esim+vs+physical+sim&w=820&h=462&c=7&rs=1&p=0&o=5&pid=1.7
@@ -29,6 +29,7 @@ cf_id: 11518
 <p>That is why swapping the SIM format never fixes a weak signal. If your signal is poor everywhere you go, the cause is the phone, the network coverage where you live, or your plan. A different SIM format changes none of those three things.</p>
 <div class="note warn"><b>Common mistake:</b> Do not delete an eSIM profile to fix problems without consulting your carrier. Reinstalling often needs a new QR code or customer support.</div>
 <h2>How phone changing habits affect your SIM choice</h2>
+<figure class="fig"><img src="https://tse2.mm.bing.net/th?q=Two+phones+side+by+side+during+an+eSIM+transfer+screen&amp;w=560&amp;h=380&amp;c=7&amp;rs=1&amp;p=0&amp;o=5&amp;pid=1.7" alt="Two phones side by side during an eSIM transfer screen" loading="lazy" decoding="async"></figure>
 <p>A physical SIM card is very portable. You can pop it out and insert it into a new phone in minutes, with no carrier help.</p>
 <p>Moving an eSIM usually involves the old phone, a carrier app, or an activation code. Some carriers require identity checks or in-person visits. If you keep one phone for years, an eSIM setup is usually simple and lasts.</p>
 <p>If you need to switch phones quickly, a physical SIM is more convenient. For example, a parent swapping a child&#x27;s SIM into a spare phone can do it immediately, but moving an eSIM often requires carrier involvement.</p>
@@ -43,6 +44,7 @@ cf_id: 11518
 <ol class="steps"><li>Turn on the new iPhone and start setup until you see the cellular setup option, or open Settings &gt; Cellular (or Mobile Data).</li><li>Select the carrier’s setup option or follow instructions to transfer the eSIM from the old phone.</li><li>Approve the transfer on the old iPhone and wait for the new phone to show active signal.</li><li>Make a test call on the new phone to confirm.</li><li>Only after confirmation, erase the old phone via Settings &gt; General &gt; Transfer or Reset iPhone &gt; Erase All Content and Settings.</li></ol>
 <div class="note warn"><b>Warning:</b> Never sell or recycle a phone while its eSIM profile is still active. Remove the line first through settings or your carrier.</div>
 <h2>Why physical SIM still matters and moving back from eSIM</h2>
+<figure class="fig"><img src="https://tse2.mm.bing.net/th?q=Hand+sliding+a+SIM+card+into+an+open+phone+tray&amp;w=560&amp;h=380&amp;c=7&amp;rs=1&amp;p=0&amp;o=5&amp;pid=1.7" alt="Hand sliding a SIM card into an open phone tray" loading="lazy" decoding="async"></figure>
 <p>Physical SIM’s advantage is independence: insert it into any unlocked phone and your number works immediately. No apps, QR codes, or carrier calls needed.</p>
 <p>If you want to switch back from eSIM to physical SIM, options vary by carrier. Some let you order a replacement SIM online or in store and transfer your number quickly. Others make it more difficult, especially if your plan was eSIM-only. Check your carrier’s policies before you need it.</p>
 <p>You can also split the job between formats. Keep the line you swap most on the card, and load travel plans as eSIM profiles when you need them. That way the number you reach for in a hurry is always the one you can move by hand.</p>
