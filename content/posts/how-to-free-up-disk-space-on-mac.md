@@ -3,7 +3,7 @@ title: How to Free Up Disk Space on Mac: Clear It Safely
 seo_title: Free Up Disk Space on Mac: Safe Steps That Work
 description: Your Mac's own Storage screen finds the biggest files and clears them safely. Open System Settings, follow the recommendations, and empty the Trash.
 date: 2026-11-26T14:19:00
-updated: 2026-11-26T14:19:00
+updated: 2026-11-27T11:05:00
 category: pc-storage
 desk: pc
 image: https://tse4.mm.bing.net/th?q=how+to+free+up+disk+space+on+mac&w=820&h=462&c=7&rs=1&p=0&o=5&pid=1.7
@@ -38,6 +38,7 @@ cf_id: 17321
 <p>Mail hides its own weight in attachments and junk. In the Mail app, choose Mailbox &gt; Erase Junk Mail, then Mailbox &gt; Erase Deleted Items. If you back up an iPhone or iPad to this Mac, old backups can also eat large amounts of space. Find them in the Finder with the device connected, and delete backups for devices you no longer own. Your Photos or iMovie library can move to an external drive instead. Copy it first, open it from the new drive to check it works, and only then delete the Mac copy.</p>
 <div class="note warn"><b>Warning:</b> Check a moved library opens from the new drive before you delete the original. A copy you never tested is not a backup.</div>
 <h2>What System Data is and what to do about it</h2>
+<figure class="fig"><img src="https://tse1.mm.bing.net/th?q=Mac+Storage+settings+bar+chart+with+System+Data+segment+highlighted&amp;w=560&amp;h=380&amp;c=7&amp;rs=1&amp;p=0&amp;o=5&amp;pid=1.7" alt="Mac Storage settings bar chart with System Data segment highlighted" loading="lazy" decoding="async"></figure>
 <p>System Data is the category that confuses everyone, because it sounds like something you can delete. Apple defines it as the storage used by Apple and third-party files that do not belong to a more specific category. That covers temporary files, caches, logs, and data that apps store while they work. That number on its own is not a fault.</p>
 <p>Restarting is the safest first move against a swollen System Data figure. Temporary files clear when macOS shuts down cleanly, and the number often drops after a restart. Give the Mac a few minutes after it comes back up, then check the Storage screen again. If the figure fell, the files were temporary and the problem is solved.</p>
 <p>Leave the Library folder alone. It holds settings and working files for your apps, and deleting the wrong item can break an app or lose data. The folders inside ~/Library/Caches look like junk, but caches rebuild themselves and deleting them rarely frees space for long. Caches are copies of data an app keeps to open faster next time. If System Data keeps growing after a restart, clear large files from inside the apps that made them, not from the Finder.</p>
